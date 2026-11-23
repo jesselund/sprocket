@@ -1,0 +1,62 @@
+/* Sprocket design tokens, generated from tokens.json */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700&family=Public+Sans:wght@300;400;600&family=IBM+Plex+Mono:wght@400&display=swap');
+
+:root {
+  --surface: #FFFFFF;
+  --surface-subtle: #F5F6FA;
+  --surface-inverse: #0B1B2B;
+  --midnight: #0B1B2B;
+  --ink: #0B1B2B;
+  --ink-muted: #5A6275;
+  --ink-on-inverse: #F5F6FA;
+  --line: #E2E5EE;
+  --indigo: #5B5BF0;
+  --indigo-hover: #4343D6;
+  --indigo-text: #4343D6;
+  --on-indigo: #FFFFFF;
+  --coral: #FB6B57;
+  --coral-text: #C8402B;
+  --velocity: #3DDBC4;
+  --velocity-text: #0E7C6B;
+  --on-velocity: #062A25;
+  --success: #067647;
+  --warning: #B54708;
+  --danger: #B42318;
+  --focus-ring: #5B5BF0;
+  --font-display: "Manrope", system-ui, sans-serif;
+  --font-sans: "Public Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-24: 96px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 28px;
+  --radius-pill: 999px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface: #0B1B2B;
+    --surface-subtle: #15283C;
+    --surface-inverse: #15283C;
+    --midnight: #1C3048;
+    --ink: #F5F6FA;
+    --ink-muted: #A3ABBD;
+    --line: #26384D;
+    --indigo-text: #A5A8FF;
+    --coral-text: #FB6B57;
+    --velocity-text: #3DDBC4;
+    --success: #47CD89;
+    --warning: #FDB022;
+    --danger: #F97066;
+    --focus-ring: #A5A8FF;
+  }
+}
