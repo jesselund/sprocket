@@ -16,7 +16,7 @@ img { max-width: 100%; display: block; }
 a { color: var(--indigo-text); }
 h1, h2, h3 { font-family: var(--font-display); color: inherit; margin: 0; }
 h1 { font-size: clamp(40px, 6vw, 64px); line-height: 1.06; font-weight: 500; letter-spacing: -0.02em; }
-h2 { font-size: clamp(34px, 4.6vw, 52px); line-height: 1.1; font-weight: 500; letter-spacing: -0.015em; }
+h2 { font-size: clamp(38px, 5.4vw, 64px); line-height: 1.06; font-weight: 500; letter-spacing: -0.015em; }
 h3 { font-size: 20px; line-height: 28px; font-weight: 700; }
 p { margin: 0; }
 .mono { font-family: var(--font-mono); }
@@ -31,9 +31,9 @@ p { margin: 0; }
 .center { text-align: center; }
 .section { padding: var(--space-24) 0; }
 .section.alt { background: var(--surface-subtle); }
-.section-head { max-width: 680px; margin-bottom: var(--space-12); }
+.section-head { max-width: 880px; margin-bottom: var(--space-12); }
 .section-head h2 { margin-top: var(--space-3); }
-.section-head .body-l { margin-top: var(--space-6); }
+.section-head .body-l { margin-top: var(--space-6); max-width: 680px; }
 
 .eyebrow { font-size: 15px; line-height: 22px; font-weight: 600; letter-spacing: 0.04em; color: var(--coral-text); margin-bottom: var(--space-3); }
 .eyebrow-inverse { color: var(--coral); }
