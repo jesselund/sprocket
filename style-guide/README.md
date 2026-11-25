@@ -8,10 +8,13 @@ This system is version 3 of the brand. It keeps the 2022 logo, the coral signatu
 
 ## Tagline
 
-**Money, at the speed of thought.**
+**Move Money Fast.**
 
-Approved variations, for headlines and campaigns:
+The tagline is always set in title case with a closing period: "Move Money Fast." It is the one exception to the sentence-case rule for headlines.
 
+Approved variations, for headlines and campaigns (sentence case):
+
+- Money, at the speed of thought.
 - Moving money at the speed of thought.
 - Money should move like information.
 - Every border. Every currency. No friction.
@@ -75,7 +78,7 @@ All text tokens pass WCAG AA (4.5:1) on their stated grounds in both light and d
 
 All three are free, open-licensed fonts on Google Fonts. Calibre, the font the wordmark is based on, is a commercial font; it is not used for web text unless Sprocket buys a web license.
 
-- Headlines are Manrope Medium with slightly tight letter-spacing, in sentence case, usually ending with a period: "Moving money at the speed of thought."
+- Headlines are Manrope Medium with slightly tight letter-spacing, in sentence case, usually ending with a period: "Money should move like information." The tagline "Move Money Fast." is the one title-case exception.
 - Body copy is Public Sans at 16px or larger on the web; large intro paragraphs use Public Sans Light at 18px.
 - Buttons and labels are Public Sans SemiBold.
 - Rates and amounts use IBM Plex Mono so digits line up: `USD → EUR 0.9184`.
