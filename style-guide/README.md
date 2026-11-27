@@ -25,14 +25,18 @@ Approved variations, for headlines and campaigns (sentence case):
 Confident, precise and calm. Sprocket speaks to treasurers, finance teams and partner banks, and they want clarity, not hype.
 
 - Do: short sentences, concrete outcomes ("Funds arrive in minutes, not days"), plain words for complex things, sentence case for headings and buttons.
-- Don't: exclamation marks, crypto or consumer-app slang ("wallet", "tokens", "to the moon"), superlatives you can't prove, emoji.
+- Don't: exclamation marks, crypto or consumer-app slang ("wallet", "tokens", "to the moon"), superlatives you can't prove, emoji. "Stablecoin" is fine when describing how payments are funded or settled.
 - Numbers are a feature. Show real rates, corridors and times, set in the mono face.
 
 ### Claims and required language
 
-Sprocket is not a bank. Banking services are provided by TS Banking Group's chartered banks. Every public page carries a disclosure to that effect; use the exact wording that counsel and the partnership agreement approve.
+Every public page carries this disclosure, in a banner fixed to the top of the screen:
 
-Never use "FDIC insured", "bank account", "guaranteed", "instant" or a specific settlement time (such as "2 seconds") unless compliance has approved that wording and it can be backed up. "Real-time" and "in minutes" need the same review.
+> Sprocket is a payment systems integrator and a registered service provider. Banking services are provided by the chartered bank subsidiaries of TS Banking Group, Member FDIC.
+
+Use this exact wording; any change needs approval from counsel and TS Banking Group.
+
+Never use "FDIC insured", "bank account", "guaranteed", "instant", "yield", "interest" or a specific settlement time (such as "2 seconds") unless compliance has approved that wording and it can be backed up. "Real-time" and "in minutes" need the same review.
 
 ## Logo
 
